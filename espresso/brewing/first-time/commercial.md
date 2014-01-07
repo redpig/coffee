@@ -38,7 +38,7 @@ Look near the place where the portafilter fits (aka the grouphead) for controls 
 
 Alright, now you know enough to burn yourself, and maybe even soothe yourself with a coffee afterwards.
 
-(Look around [Espresso in Pictures](images/) if you'd like some visual guidance until it is added inline.)
+(Look around [Espresso in Pictures](images/pictures.md) if you'd like some visual guidance until it is added inline.)
 
 ## Warm up
 
